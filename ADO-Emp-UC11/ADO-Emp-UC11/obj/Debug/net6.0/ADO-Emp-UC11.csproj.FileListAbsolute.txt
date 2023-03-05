@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\ADO-Emp-Payroll\ADO-Emp-Payroll\ADO-Emp-UC11\ADO-Emp-UC11\obj\Debug\net6.0\ADO-Emp-UC11.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ADO-Emp-Payroll\ADO-Emp-Payroll\ADO-Emp-UC11\ADO-Emp-UC11\obj\Debug\net6.0\ADO-Emp-UC11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ADO-Emp-Payroll\ADO-Emp-Payroll\ADO-Emp-UC11\ADO-Emp-UC11\obj\Debug\net6.0\ADO-Emp-UC11.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ADO-Emp-Payroll\ADO-Emp-Payroll\ADO-Emp-UC11\ADO-Emp-UC11\obj\Debug\net6.0\ADO-Emp-UC11.AssemblyInfo.cs
+C:\Users\USER\source\repos\ADO-Emp-Payroll\ADO-Emp-Payroll\ADO-Emp-UC11\ADO-Emp-UC11\obj\Debug\net6.0\ADO-Emp-UC11.csproj.CoreCompileInputs.cache
